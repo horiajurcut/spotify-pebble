@@ -1,0 +1,24 @@
+{
+    "author": "horia.dragos@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "spotify",
+    "pebble": {
+        "displayName": "Spotify",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "0495165f-6b2e-4e31-8f29-c6dfa5ca50ec",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
